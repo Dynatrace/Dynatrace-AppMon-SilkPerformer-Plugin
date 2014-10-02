@@ -1,0 +1,122 @@
+LICENSE AGREEMENT FOR DYNATRACE EXPERIMENTAL SOFTWARE
+
+
+
+THIS IS A LEGAL AGREEMENT BETWEEN YOU (“LICENSEE”) AND COMPUWARE CORPORATION AND ITS 
+AFFILIATED ENTITIES (“COMPUWARE”).  COMPUWARE IS WILLING TO LICENSE THIS EXPERIMENTAL 
+SOFTWARE ("SOFTWARE") TO YOU ONLY ON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS 
+CONTAINED IN THIS AGREEMENT.  BEFORE YOU CLICK ON THE "ACCEPT" BUTTON, CAREFULLY READ 
+THE TERMS AND CONDITIONS OF THIS AGREEMENT.  BY CLICKING ON THE "ACCEPT" BUTTON, YOU ARE: 
+(1) REPRESENTING THAT YOU HAVE THE CAPACITY AND AUTHORITY TO BIND YOURSELF AND YOUR 
+EMPLOYER TO THE TERMS OF THIS AGREEMENT; AND (2) CONSENTING ON BEHALF OF YOURSELF AND/OR 
+YOUR EMPLOYER, AS APPLICABLE, TO BE BOUND BY THIS LICENSE AGREEMENT.  IF YOU DO NOT AGREE 
+TO ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT, THEN COMPUWARE IS UNWILLING TO 
+LICENSE THE EXPERIMENTAL SOFTWARE TO YOU, IN WHICH EVENT YOU SHOULD CLICK THE “DO NOT 
+ACCEPT” BUTTON TO DISCONTINUE THE INSTALL PROCESS AND CONTACT YOUR COMPUWARE SALES 
+REPRESENTATIVE.
+
+
+Compuware is the owner or authorized marketing agent of the Software, which it desires to 
+have tested and evaluated on certain computer equipment under the terms and conditions 
+of this Agreement; and 
+
+Licensee is willing to accept a license of such Software for the purposes of testing and 
+evaluation on such computer equipment under the terms of this Agreement;
+
+
+1.  Definition
+1.1  “Software” means the documentation, program listings, object code and magnetic media 
+     associated with the program(s).
+1.2  “Experimental Test” means a test of the operation of the Software in use by Licensee.
+1.3  “Computer Equipment” means the specific CPU’s and peripheral equipment.
+
+2.  Grant
+Compuware grants Licensee a royalty free, personal, non-transferable and non-exclusive 
+license to use the Software under the terms of this Agreement.
+
+3.  Term
+The license for the Software shall be effective from the date of Licensee’s receipt of the 
+Software and shall remain in force until the earlier of the following: a) Licensee 
+discontinues use of the Software or b) until the Software is authorized for general 
+release to Licensee as a standard Compuware product or c) upon fifteen (15) days written 
+notice of termination of this Agreement by Compuware.
+
+4.  License Terms
+The Software may be used only by Licensee.  Licensee shall not make or allow others to 
+make copies or reproductions of the Software without Compuware’s written consent, except 
+for archival or emergency restart purposes.  Licensee may not make or permit to be made 
+any alterations to the Software without Compuware’s prior written consent.
+
+
+5.  Obligations of the Parties
+(a)  During the term of this Agreement, Licensee agrees to inform Compuware of all errors, 
+     difficulties or other problems with the Software.  Compuware will make a reasonable 
+     effort to (i) fix reported errors and (ii) provide Licensee with support and 
+     consultation concerning the Software.  Licensee also agrees to apply fixes as soon as 
+     they are made available by Compuware.
+(b)  If replacement versions of the Software are produced by Compuware, Licensee shall 
+     install the replacement versions upon receipt.
+(c)  Compuware and Licensee shall each designate a qualified representative as product 
+     coordinator to be responsible for supervising and coordinating the implementation of 
+     the Software and the Experimental Test and to be the person through whom all 
+     communication between the parties is directed.
+(d)  Licensee shall, during the term of this Agreement, provide to Compuware on a mutually 
+     agreed upon schedule, information describing the results of all evaluations and tests 
+     of the Software.  Licensee shall, upon termination of this Agreement, complete a 
+     brief survey of the Licensee’s impressions of the Software and return it to the 
+     Compuware product coordinator.
+(e)  Licensee acknowledges that Compuware will not be obligated to make the Software 
+     available as a standard Compuware product.
+
+6.  Fees
+There will be no fee charged during the term of this Agreement for the use of the 
+Software.
+
+7.  Termination
+Within five (5) business days after termination of this Agreement, Licensee will (a) 
+return to Compuware all copies, in whole or in part, of the Software, or (b) upon request 
+by Compuware, destroy all copies of the Software and certify in writing that they have 
+been destroyed.
+
+8.  Proprietary Rights and Confidentiality
+(a)  The Software and all copies are proprietary to and the property of Compuware, and 
+     title and full ownership and/or marketing rights to the Software remain with 
+     Compuware.  All applicable rights in the Software under patent, copyright and other 
+     intellectual property laws are and will remain with Compuware.
+(b)  Licensee acknowledges that the Software provided by Compuware, and the Licensee’s 
+     evaluations and Experimental Test results of the Software contain and constitute 
+     commercially valuable, proprietary trade secrets and confidential information of 
+     Compuware.  Licensee shall not sell, transfer, publish, disclose, display or 
+     otherwise make available the Software and related evaluations and test results or 
+     copies thereof in any form to any third parties, without the prior written approval 
+     of Compuware.   Licensee agrees to protect the Software and test results as it does 
+     its own assets and trade secrets.
+
+9.  Warranties and Remedies
+Licensee understands that Compuware makes no representations or warranties concerning the 
+completeness, accuracy or operation of the Software.  Licensee shall have the sole 
+responsibility for adequate protection and backup of its data used in connection with the 
+Software.  Compuware warrants that it owns or has the authority to grant Licensee a 
+license to the Software without infringing the proprietary rights of others.  Compuware 
+agrees to indemnify Licensee against any claim of infringement relating to the Software.  
+THE WARRANTIES GIVEN IN THIS SECTION ARE IN LIEU OF ALL OTHER WARRANTIES WHETHER WRITTEN, 
+ORAL, EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, 
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+
+10.  Assignment
+This Agreement and the license granted hereunder may not be assigned, sublicensed or 
+otherwise transferred by the Licensee without prior written consent from Compuware.
+
+11.  Entire Agreement
+The provisions of this Agreement constitute the entire agreement between the parties.  
+This agreement supersedes all prior agreements and all other written or oral 
+communications between the parties, and may only be modified by written agreement of the 
+parties.
+
+12.  General
+In the event that any portion of this Agreement shall be illegal or otherwise 
+unenforceable, the entire Agreement shall not fail on its account.  That provision should 
+be severed, with the balance of this Agreement continuing in full force and effect.  The 
+Licensee’s remedies in this Agreement are exclusive.  This Agreement shall be governed by 
+the laws of the State of Michigan.
