@@ -6,4 +6,4 @@ SilkPerformer). It extends SilkPerformer's capabilities by pinpointing the root 
 See the [dynaTrace blog](http://blog.dynatrace.com/2010/05/04/elevating-web-and-load-testing-with-microfocus-silkperformer-diagnostics-powered-by-dynatrace/) for a hands-on introduction incl. a step-
 by-step guide and screenshots.
 
-Find further information in the [dynaTrace community](https://community.compuwareapm.com/community/display/DL/SilkPerformer+Plugin) 
+Find further information in the [dynaTrace community](https://community.dynatrace.com/community/display/DL/SilkPerformer+Plugin) 
