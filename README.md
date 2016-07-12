@@ -1,9 +1,12 @@
-## SilkPerformer Plugin
+## SilkPerformer Plugin source code
+Official support for the Dynatrace plugin for *Micro Focus Silk Performer* (previously called *Borland SilkPerformer*) has been discontinued - this source code is released as a community service and provided as-is and without any warranty.
 
-![images_community/download/attachments/11567147/icon.png](images_community/download/attachments/11567147/icon.png) dynaTrace fully integrates with Micro Focus SilkPerformer (formely: Borland
-SilkPerformer). It extends SilkPerformer's capabilities by pinpointing the root cause of performance, stability, and scalability problems in application code.
+### Build information
+This solution compiles with Visual Studio Express 2010.
 
-See the [dynaTrace blog](http://blog.dynatrace.com/2010/05/04/elevating-web-and-load-testing-with-microfocus-silkperformer-diagnostics-powered-by-dynatrace/) for a hands-on introduction incl. a step-
+## Binaries
+Precompiled plugins are available via [Dynatrace  community](https://community.dynatrace.com/community/display/DL/SilkPerformer+Plugin) 
+
+## Usage instructions
+See the [Dynatrace blog](http://blog.dynatrace.com/2010/05/04/elevating-web-and-load-testing-with-microfocus-silkperformer-diagnostics-powered-by-dynatrace/) for a hands-on introduction incl. a step-
 by-step guide and screenshots.
-
-Find further information in the [dynaTrace community](https://community.dynatrace.com/community/display/DL/SilkPerformer+Plugin) 
