@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
       <Configuration>Debug</Configuration>
@@ -19,11 +19,13 @@
     <ConfigurationType>DynamicLibrary</ConfigurationType>
     <UseOfMfc>false</UseOfMfc>
     <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>DynamicLibrary</ConfigurationType>
     <UseOfMfc>false</UseOfMfc>
     <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
   <ImportGroup Label="ExtensionSettings">
@@ -82,7 +84,7 @@
       <Culture>0x0409</Culture>
     </ResourceCompile>
     <Link>
-      <AdditionalDependencies>Version.lib;wsock32.lib;Ws2_32.lib;apr-1.lib;kernel32.lib;wininet.lib;user32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalDependencies>Version.lib;wsock32.lib;Ws2_32.lib;apr-1.vs2015.lib;kernel32.lib;wininet.lib;user32.lib;advapi32.lib</AdditionalDependencies>
       <OutputFile>bin\perfPIdynaTrace.dll</OutputFile>
       <Version>
       </Version>
@@ -128,7 +130,7 @@
       <Culture>0x0409</Culture>
     </ResourceCompile>
     <Link>
-      <AdditionalDependencies>Version.lib;wsock32.lib;Ws2_32.lib;apr-1.lib;kernel32.lib;wininet.lib;user32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalDependencies>Version.lib;wsock32.lib;Ws2_32.lib;apr-1.vs2015.lib;kernel32.lib;wininet.lib;user32.lib;advapi32.lib</AdditionalDependencies>
       <OutputFile>bin\perfPIdynaTrace.dll</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <AdditionalLibraryDirectories>dep\lib</AdditionalLibraryDirectories>
