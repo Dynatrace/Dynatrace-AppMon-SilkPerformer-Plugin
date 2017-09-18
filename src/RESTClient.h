@@ -15,6 +15,9 @@
 
 #include <vector>
 
+#define GET_CONN_HANDLE(mInternetHandle, server, clientPort) InternetConnect(mInternetHandle, server, clientPort, NULL, NULL, INTERNET_SERVICE_HTTP, 0, NULL);
+#define GET_REQ_HANDLE(connHandle, method, url) HttpOpenRequest(connHandle, method, url.getBytes(), NULL, NULL, NULL, INTERNET_FLAG_NO_CACHE_WRITE, NULL)
+
 //used for return value of isRESTServerReachable()
 enum ClientVersion{
 	STATE_NOT_REACHABLE,	//server not reachable, wrong port or not started
@@ -98,6 +101,7 @@ private:
 	BOOL checkConfiguredServerName(); 
 	void closeHandles(HINTERNET connHandle, HINTERNET reqHandle);
 
+	void logLastErrorMessage(enum EPI_SeverityTag logLevel, String messagePrefix);
 	long getStatusCode(HINTERNET reqHandle);
 	String readResult(HINTERNET reqHandle);
 

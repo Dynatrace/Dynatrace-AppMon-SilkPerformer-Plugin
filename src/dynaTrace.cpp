@@ -1418,6 +1418,7 @@ void  PI_RegisterMessageLog(void* pClient, TMessageLogCallback fCallback)
 		str.sprintf("RegKey is : %s", chBuf);
 		delete chBuf;
 		DLOG(str.getBytes());
+		Log(eSeverityInfo, str.getBytes(), 0);
 	} // if
 	else {
 		Log(eSeverityWarning, "Query of Reg-Key failed", 0);
