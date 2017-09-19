@@ -7,8 +7,8 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 #endif
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 7,0,0,2471
- PRODUCTVERSION 7,0,0,2471
+ FILEVERSION 7,0,8,1007
+ PRODUCTVERSION 7,0,8,1007
  FILEFLAGSMASK 0x17L
 #ifdef _DEBUG
  FILEFLAGS 0x1L
@@ -25,13 +25,13 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "Dynatrace Software GmbH"
             VALUE "FileDescription", "Dynatrace Plugin for SilkPerformer"
-            VALUE "FileVersion", "7.0.0.2471"
+            VALUE "FileVersion", "7.0.8.1007"
             VALUE "InternalName", "Dynatrace Plugin"
             VALUE "LegalCopyright", "Copyright (C) 2004-2017"
-            VALUE "OriginalFilename", "DynatraceSilkPerfPlugin.dll"
+            VALUE "OriginalFilename", "perfPIdynaTrace.dll"
             VALUE "ProductName", "Dynatrace SilkPerformer Plugin Dynamic Link Library"
-            VALUE "ProductVersion", "7.0.0.2471"
-            VALUE "BuildDate", "2017.09.11 12:34"
+            VALUE "ProductVersion", "7.0.8.1007"
+            VALUE "BuildDate", "2017.09.19 13:29"
         END
     END
     BLOCK "VarFileInfo"
