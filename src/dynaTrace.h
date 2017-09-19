@@ -91,12 +91,6 @@ int GetInfo(HPILTCONTEXT hLt, EPI_PerformerInfo eInformation, char *pszBuffer, u
 /// \return TRUE, if SessionRecording should be started, FALSE otherwise
 BOOL checkIsSessionRecording(void);
 
-/// checks Registry entry for "IsReportVisible" and Provide activation state. If Value is not found,
-/// the default is returned (TRUE)
-///
-/// \return TRUE, if Overview-Report-Functionality should be started, FALSE otherwise
-BOOL checkIsReportVisible(void);
-
 /// Reads the Project-Name and the Loadtestname from the GetInfo callback function.
 /// Is intended to be called when PI_OnEvent is called with "LoadTestStart" - Event
 /// Concats the Projectname with an underbar ("_") if both elements are present.
@@ -105,11 +99,6 @@ BOOL checkIsReportVisible(void);
 /// \param [in] param Provided with PI_OnEvent - for future use
 /// \return the Projectname and the LoadtestName concatinated with an underbar
 String getRecordSessionName(void *param);
-
-/// Reads the SessionId from an available client.
-///
-/// \return the SessionId if one could be obtained, an empty string otherwise
-String getSessionIdFromOnlineClient(void);
 
 /// @}
 #endif
